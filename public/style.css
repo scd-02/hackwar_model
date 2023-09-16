@@ -1,0 +1,9 @@
+body {
+	touch-action: none;
+	font-family: "Roboto";
+}
+h1 {
+	margin: 50px;
+	font-size: 70px;
+	text-align: center;
+}
